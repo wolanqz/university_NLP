@@ -1,3 +1,5 @@
+# выполнил Субботин Дмитрий, группа 932001
+
 import nltk
 import pymorphy2
 from nltk.tokenize import word_tokenize
